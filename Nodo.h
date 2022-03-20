@@ -1,6 +1,6 @@
 struct Nodo
 {
-    int dato;
+    int dato = 0 ;
     Nodo *izquierda;
     Nodo *derecha;
     int altura;
